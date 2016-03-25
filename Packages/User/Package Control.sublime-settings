@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Jade",
+		"LiveReload",
+		"LiveReloadMake",
+		"Package Control",
+		"PHPIntel",
+		"Sass",
+		"SASS Build",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}

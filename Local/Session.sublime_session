@@ -1,0 +1,819 @@
+{
+	"folder_history":
+	[
+		"/home/alex/apache2/www/test",
+		"/home/alex/apache2/www",
+		"/home/alex/записи"
+	],
+	"last_version": 3103,
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 752.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"php",
+						"phpinfo"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/alex/6472E32B72E30122/Учет/Мои отчеты/2",
+				"/home/alex/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/alex/записи/Аккаунты",
+				"/media/alex/6472E32B72E30122/готовые списки/2",
+				"/home/alex/www/mrkcode/mycode/.git/COMMIT_EDITMSG",
+				"/home/alex/www/.git/COMMIT_EDITMSG",
+				"/usr/share/applications/Photoshop CS6.desktop",
+				"/media/alex/WEB-environment/apache-2.4.18-(32)-vc11/htdocs/index.php",
+				"/home/alex/.config/nautilus/servers",
+				"/home/alex/записи/заметки.php",
+				"/home/alex/Документы/tor-browser_ru/start-tor-browser.desktop",
+				"/media/alex/6472E32B72E30122/готовые списки/1",
+				"/home/alex/Документы/готовые списки/2",
+				"/home/alex/Документы/готовые списки/1",
+				"/etc/apache2/sites-enabled/test.conf",
+				"/etc/apache2/sites-available/000-default.conf",
+				"/etc/apache2/conf-enabled/phpmyadmin.conf",
+				"/etc/apache2/sites-enabled/000-default.conf",
+				"/etc/apache2/apache2.conf",
+				"/home/alex/apache2/www/test/untitled.sublime-project",
+				"/home/alex/apache2/www/test/fn.php",
+				"/home/alex/apache2/www/test/index.php",
+				"/home/alex/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+				"/home/alex/записи/plain bla",
+				"/home/alex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/media/alex/WEB-environment/test.sass",
+				"/media/alex/WEB-environment/new 1.php",
+				"/home/alex/.config/sublime-text-3/Packages/User/SublimePHPIntel.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/media/alex/WEB-environment/test.html",
+				"/media/alex/WEB-environment/apache-2.4.12/htdocs/lib/vendor/helpers/common.php",
+				"/media/alex/WEB-environment/apache-2.4.12/htdocs/lib/vendor/Controller.php",
+				"/media/alex/WEB-environment/apache-2.4.12/htdocs/index.php",
+				"/home/alex/style.sass",
+				"/home/alex/i.html",
+				"/home/alex/записи/t",
+				"/home/alex/записи/fold/ff",
+				"/home/alex/examples.desktop",
+				"/home/alex/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/SimpleReloadPluginDelay.py",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/Main.sublime-menu",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/Default.sublime-commands",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/LiveReload.py",
+				"/var/tmp/kdecache-alex/krun/5017_0_SublimeOnSaveBuild.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/5041_0_SublimeOnSaveBuild.py",
+				"/home/alex/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4996_0_Main.sublime-menu",
+				"/var/tmp/kdecache-alex/krun/4973_0_package-metadata.json",
+				"/var/tmp/kdecache-alex/krun/4951_0_snippets.json",
+				"/var/tmp/kdecache-alex/krun/4926_0_package-metadata.json",
+				"/var/tmp/kdecache-alex/krun/4904_0_SASS.sublime-build",
+				"/var/tmp/kdecache-alex/krun/4873_0_SASS - Compressed.sublime-build",
+				"/home/alex/style.css",
+				"/home/alex/jadetest.html",
+				"/home/alex/jadetest.jade",
+				"/home/alex/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/alex/.config/sublime-text-3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/User/Jade.sublime-settings",
+				"/home/alex/jadetest.css",
+				"/home/alex/i.css.map",
+				"/home/alex/i.css",
+				"/home/alex/i.jade",
+				"/home/alex/записи/Алгоритм жизни",
+				"/home/alex/.config/sublime-text-3/Packages/User/sftp_servers/mark.byethost14.com",
+				"/home/alex/sftp-config.json",
+				"/tmp/sublime-sftp-browse-1458108885/mark.byethost14.com/htdocs/ggg",
+				"/tmp/sublime-sftp-browse-1458108840/mark.byethost14.com/htdocs/style.css",
+				"/home/alex/.config/sublime-text-3/Packages/SFTP/Default (Linux).sublime-keymap",
+				"/home/alex/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/tmp/Gist.sublime-settingshh",
+				"/home/alex/.config/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/Gist/Default (Linux).sublime-keymap",
+				"/home/alex/style.css.map",
+				"/home/alex/.config/sublime-text-3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/media/alex/WEB-environment/test/ScrollMagic.js",
+				"/home/alex/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4454_0_Preferences.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4435_0_Default.sublime-commands",
+				"/var/tmp/kdecache-alex/krun/4414_0_Emmet.tmLanguage",
+				"/var/tmp/kdecache-alex/krun/4395_0_Emmet.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4373_0_caniuse.json",
+				"/var/tmp/kdecache-alex/krun/4329_0_snippets.json",
+				"/media/alex/WEB-environment/test/index.html",
+				"/media/alex/6472E32B72E30122/web/scripts/js/lib.js",
+				"/home/alex/записи/action.txt",
+				"/home/alex/записи/forex.txt",
+				"/home/alex/записи/форекс демо.txt",
+				"/media/alex/WEB-environment/2016/Заявки0",
+				"/home/alex/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/media/alex/WEB-environment/2016/mandrillapp.html",
+				"/media/alex/WEB-environment/2016/var xmlhttp = (window.XMLHttpRequest) ? new XMLHtt",
+				"/home/alex/.cache/.fr-GdyQda/index.php",
+				"/home/alex/.cache/.fr-SbMZYC/libraries/joomla/application/web.php",
+				"/home/alex/.cache/.fr-1eIwnj/libraries/cms/router/router.php",
+				"/home/alex/.cache/.fr-IQxgyi/templates/protostar/html/modules.php",
+				"/home/alex/.cache/.fr-BbgtIL/templates/protostar/component.php",
+				"/home/alex/.cache/.fr-OkDHAf/templates/protostar/error.php",
+				"/home/alex/.cache/.fr-xmYU7v/plugins/search/categories/categories.php",
+				"/home/alex/.cache/.fr-GFhcS8/modules/mod_articles_archive/tmpl/default.php",
+				"/home/alex/.cache/.fr-d5pz8O/modules/mod_articles_archive/helper.php",
+				"/home/alex/.cache/.fr-8oPUpU/modules/mod_articles_archive/mod_articles_archive.php",
+				"/home/alex/.cache/.fr-Aeyf3T/logs/joomla_update.php",
+				"/home/alex/.cache/.fr-FbzwIE/layouts/joomla/content/categories_default.php",
+				"/home/alex/.cache/.fr-CEWom3/layouts/libraries/cms/html/bootstrap/addtab.php",
+				"/home/alex/.cache/.fr-RwWoiu/components/com_search/views/search/tmpl/default_form.php",
+				"/home/alex/.cache/.fr-oAZkFA/components/com_search/views/search/tmpl/default_error.php",
+				"/home/alex/.cache/.fr-5OvKcZ/components/com_search/views/search/tmpl/default.php",
+				"/home/alex/.cache/.fr-SSGDxG/components/com_search/views/search/view.html.php",
+				"/home/alex/.cache/.fr-n7rPxt/components/com_search/controller.php",
+				"/home/alex/.cache/.fr-GDFKVj/components/com_search/search.php",
+				"/home/alex/.cache/.fr-bKAgqC/components/com_ajax/ajax.php",
+				"/home/alex/.cache/.fr-ErjqJB/components/com_search/router.php",
+				"/home/alex/.cache/.fr-PZRKf0/bin/keychain.php",
+				"/home/alex/.cache/.fr-izgVz6/libraries/cms/router/site.php",
+				"/home/alex/.cache/.fr-4adSgk/libraries/cms/menu/menu.php",
+				"/home/alex/.cache/.fr-Bk5vuI/libraries/joomla/application/base.php",
+				"/home/alex/.cache/.fr-Jx2nfB/libraries/import.legacy.php",
+				"/home/alex/.cache/.fr-ZGYiND/includes/framework.php",
+				"/home/alex/.cache/.fr-CQBsFM/libraries/loader.php",
+				"/home/alex/.cache/.fr-bhL9wp/libraries/cms.php",
+				"/home/alex/.cache/.fr-gwKemY/libraries/joomla/factory.php",
+				"/home/alex/.cache/.fr-MHL7Yt/libraries/cms/application/cms.php"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"========================================================\n\n========================================================",
+					"\n========================================================\n\n========================================================",
+					"\n",
+					"ctrl+k",
+					"side",
+					"html",
+					"word",
+					"\\\\\\\"",
+					"jquery1",
+					"		 		\"",
+					"dd",
+					"fgdssfdtdd",
+					"5",
+					"_rules['parse']",
+					"_rules",
+					"processParseRules",
+					"_processParseRules",
+					"parseRawRoute",
+					"_parseRawRoute",
+					"Alias",
+					"вх",
+					"\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\n========================================================",
+					"\n========================================================\n",
+					"\n========================================================",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 75.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 140.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/.config/sublime-text-3/Packages/User/Gist.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 3
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"php",
+						"phpinfo"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/media/alex/6472E32B72E30122/Учет/Мои отчеты/мыло",
+					"settings":
+					{
+						"buffer_size": 799,
+						"line_ending": "Unix",
+						"name": "bella96@meta.ua:250196"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/alex/6472E32B72E30122/Учет/Мои отчеты/3",
+				"/media/alex/6472E32B72E30122/Учет/Мои отчеты/2",
+				"/home/alex/Файлы Skype/фио.txt",
+				"/home/alex/Файлы Skype/мыло.txt",
+				"/media/alex/6472E32B72E30122/Учет/Мои отчеты/mails",
+				"/home/alex/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/alex/записи/Аккаунты",
+				"/media/alex/6472E32B72E30122/готовые списки/2",
+				"/home/alex/www/mrkcode/mycode/.git/COMMIT_EDITMSG",
+				"/home/alex/www/.git/COMMIT_EDITMSG",
+				"/usr/share/applications/Photoshop CS6.desktop",
+				"/media/alex/WEB-environment/apache-2.4.18-(32)-vc11/htdocs/index.php",
+				"/home/alex/.config/nautilus/servers",
+				"/home/alex/записи/заметки.php",
+				"/home/alex/Документы/tor-browser_ru/start-tor-browser.desktop",
+				"/media/alex/6472E32B72E30122/готовые списки/1",
+				"/home/alex/Документы/готовые списки/2",
+				"/home/alex/Документы/готовые списки/1",
+				"/etc/apache2/sites-enabled/test.conf",
+				"/etc/apache2/sites-available/000-default.conf",
+				"/etc/apache2/conf-enabled/phpmyadmin.conf",
+				"/etc/apache2/sites-enabled/000-default.conf",
+				"/etc/apache2/apache2.conf",
+				"/home/alex/apache2/www/test/untitled.sublime-project",
+				"/home/alex/apache2/www/test/fn.php",
+				"/home/alex/apache2/www/test/index.php",
+				"/home/alex/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+				"/home/alex/записи/plain bla",
+				"/home/alex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/media/alex/WEB-environment/test.sass",
+				"/media/alex/WEB-environment/new 1.php",
+				"/home/alex/.config/sublime-text-3/Packages/User/SublimePHPIntel.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/media/alex/WEB-environment/test.html",
+				"/media/alex/WEB-environment/apache-2.4.12/htdocs/lib/vendor/helpers/common.php",
+				"/media/alex/WEB-environment/apache-2.4.12/htdocs/lib/vendor/Controller.php",
+				"/media/alex/WEB-environment/apache-2.4.12/htdocs/index.php",
+				"/home/alex/style.sass",
+				"/home/alex/i.html",
+				"/home/alex/записи/t",
+				"/home/alex/записи/fold/ff",
+				"/home/alex/examples.desktop",
+				"/home/alex/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/SimpleReloadPluginDelay.py",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/Main.sublime-menu",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/Default.sublime-commands",
+				"/home/alex/.config/sublime-text-3/Packages/LiveReload/LiveReload.py",
+				"/var/tmp/kdecache-alex/krun/5017_0_SublimeOnSaveBuild.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/5041_0_SublimeOnSaveBuild.py",
+				"/home/alex/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4996_0_Main.sublime-menu",
+				"/var/tmp/kdecache-alex/krun/4973_0_package-metadata.json",
+				"/var/tmp/kdecache-alex/krun/4951_0_snippets.json",
+				"/var/tmp/kdecache-alex/krun/4926_0_package-metadata.json",
+				"/var/tmp/kdecache-alex/krun/4904_0_SASS.sublime-build",
+				"/var/tmp/kdecache-alex/krun/4873_0_SASS - Compressed.sublime-build",
+				"/home/alex/style.css",
+				"/home/alex/jadetest.html",
+				"/home/alex/jadetest.jade",
+				"/home/alex/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/alex/.config/sublime-text-3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/User/Jade.sublime-settings",
+				"/home/alex/jadetest.css",
+				"/home/alex/i.css.map",
+				"/home/alex/i.css",
+				"/home/alex/i.jade",
+				"/home/alex/записи/Алгоритм жизни",
+				"/home/alex/.config/sublime-text-3/Packages/User/sftp_servers/mark.byethost14.com",
+				"/home/alex/sftp-config.json",
+				"/tmp/sublime-sftp-browse-1458108885/mark.byethost14.com/htdocs/ggg",
+				"/tmp/sublime-sftp-browse-1458108840/mark.byethost14.com/htdocs/style.css",
+				"/home/alex/.config/sublime-text-3/Packages/SFTP/Default (Linux).sublime-keymap",
+				"/home/alex/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/tmp/Gist.sublime-settingshh",
+				"/home/alex/.config/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/Gist/Default (Linux).sublime-keymap",
+				"/home/alex/style.css.map",
+				"/home/alex/.config/sublime-text-3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+				"/home/alex/.config/sublime-text-3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/media/alex/WEB-environment/test/ScrollMagic.js",
+				"/home/alex/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4454_0_Preferences.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4435_0_Default.sublime-commands",
+				"/var/tmp/kdecache-alex/krun/4414_0_Emmet.tmLanguage",
+				"/var/tmp/kdecache-alex/krun/4395_0_Emmet.sublime-settings",
+				"/var/tmp/kdecache-alex/krun/4373_0_caniuse.json",
+				"/var/tmp/kdecache-alex/krun/4329_0_snippets.json",
+				"/media/alex/WEB-environment/test/index.html",
+				"/media/alex/6472E32B72E30122/web/scripts/js/lib.js",
+				"/home/alex/записи/action.txt",
+				"/home/alex/записи/forex.txt",
+				"/home/alex/записи/форекс демо.txt",
+				"/media/alex/WEB-environment/2016/Заявки0",
+				"/home/alex/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/media/alex/WEB-environment/2016/mandrillapp.html",
+				"/media/alex/WEB-environment/2016/var xmlhttp = (window.XMLHttpRequest) ? new XMLHtt",
+				"/home/alex/.cache/.fr-GdyQda/index.php",
+				"/home/alex/.cache/.fr-SbMZYC/libraries/joomla/application/web.php",
+				"/home/alex/.cache/.fr-1eIwnj/libraries/cms/router/router.php",
+				"/home/alex/.cache/.fr-IQxgyi/templates/protostar/html/modules.php",
+				"/home/alex/.cache/.fr-BbgtIL/templates/protostar/component.php",
+				"/home/alex/.cache/.fr-OkDHAf/templates/protostar/error.php",
+				"/home/alex/.cache/.fr-xmYU7v/plugins/search/categories/categories.php",
+				"/home/alex/.cache/.fr-GFhcS8/modules/mod_articles_archive/tmpl/default.php",
+				"/home/alex/.cache/.fr-d5pz8O/modules/mod_articles_archive/helper.php",
+				"/home/alex/.cache/.fr-8oPUpU/modules/mod_articles_archive/mod_articles_archive.php",
+				"/home/alex/.cache/.fr-Aeyf3T/logs/joomla_update.php",
+				"/home/alex/.cache/.fr-FbzwIE/layouts/joomla/content/categories_default.php",
+				"/home/alex/.cache/.fr-CEWom3/layouts/libraries/cms/html/bootstrap/addtab.php",
+				"/home/alex/.cache/.fr-RwWoiu/components/com_search/views/search/tmpl/default_form.php",
+				"/home/alex/.cache/.fr-oAZkFA/components/com_search/views/search/tmpl/default_error.php",
+				"/home/alex/.cache/.fr-5OvKcZ/components/com_search/views/search/tmpl/default.php",
+				"/home/alex/.cache/.fr-SSGDxG/components/com_search/views/search/view.html.php",
+				"/home/alex/.cache/.fr-n7rPxt/components/com_search/controller.php",
+				"/home/alex/.cache/.fr-GDFKVj/components/com_search/search.php",
+				"/home/alex/.cache/.fr-bKAgqC/components/com_ajax/ajax.php",
+				"/home/alex/.cache/.fr-ErjqJB/components/com_search/router.php",
+				"/home/alex/.cache/.fr-PZRKf0/bin/keychain.php",
+				"/home/alex/.cache/.fr-izgVz6/libraries/cms/router/site.php",
+				"/home/alex/.cache/.fr-4adSgk/libraries/cms/menu/menu.php",
+				"/home/alex/.cache/.fr-Bk5vuI/libraries/joomla/application/base.php",
+				"/home/alex/.cache/.fr-Jx2nfB/libraries/import.legacy.php",
+				"/home/alex/.cache/.fr-ZGYiND/includes/framework.php"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"========================================================\n\n========================================================",
+					"\n========================================================\n\n========================================================",
+					"\n",
+					"ctrl+k",
+					"side",
+					"html",
+					"word",
+					"\\\\\\\"",
+					"jquery1",
+					"		 		\"",
+					"dd",
+					"fgdssfdtdd",
+					"5",
+					"_rules['parse']",
+					"_rules",
+					"processParseRules",
+					"_processParseRules",
+					"parseRawRoute",
+					"_parseRawRoute",
+					"Alias",
+					"вх",
+					"\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\n========================================================",
+					"\n========================================================\n",
+					"\n========================================================",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/media/alex/6472E32B72E30122/Учет/Мои отчеты/мыло",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 799,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										799,
+										799
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "bella96@meta.ua:250196",
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 75.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,438,59,1078,811,1152,864",
+			"project": "",
+			"replace":
+			{
+				"height": 140.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/.config/sublime-text-3/Packages/User/Gist.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 3
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/alex/apache2/www/test/untitled.sublime-workspace",
+			"/home/alex/apache2/www/test/index.sublime-workspace"
+		]
+	}
+}
